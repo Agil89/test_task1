@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local configuration file (rename this file to '.env' for development)
+.env
+
+# Flask configuration files
+instance/
+
+# SQLite database file
+*.db
+
+# System files
+.DS_Store
+Thumbs.db
